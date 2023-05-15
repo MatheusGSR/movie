@@ -1,0 +1,59 @@
+{
+  "background_color": "#ffffff",
+  "description": "movie",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "movie",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "movie",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+  {
+    "src": "/praticas_api/api_movie/img/icon_128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_167.png",
+    "sizes": "167x167",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+  "purpose": "any maskable"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  },
+  {
+    "src": "/praticas_api/api_movie/img/icon_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+
+  ],
+  "shortcuts": []
+}
